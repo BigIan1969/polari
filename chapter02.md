@@ -204,6 +204,7 @@ Recap
 Here's a list of words and phrases we've encountered so far in our Polari Journey my we've been busy haven't we don't worry if you can't remember them all it all comes with practice.
 
 | **Term** | **Definition** |
+| ------ | ------ |
 | Ajax | Nearby, here. |
 | Basket | The bulge of male genitalia. |
 | Bijou | Small and elegant. |
