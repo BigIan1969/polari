@@ -94,7 +94,7 @@ Polari is a rich and colourful language, full of slang and expressions. Here are
 
 - Riah: Hair.
 
-- Vada: To see, to look.[[IH1]](https://d.docs.live.net/330D9D78E14E1BA8/How%20to%20speak%20Polari%20II.docx#_msocom_1) 
+- Vada: To see, to look. 
 
 Please note that some words in Polari have multiple meanings, depending on the context in which they are used. For example, "naff" can mean dull or inferior, but it can also refer to someone who is straight. Similarly, "dish" can refer to an attractive man, or to the buttocks.
 
@@ -131,7 +131,7 @@ In addition to the unique slang and expressions that make up Polari, there are a
 
 - Scarper: To run away
 
-- Trade: A sexual partner or someone who is sexually available often a prostitute[[IH2]](https://d.docs.live.net/330D9D78E14E1BA8/How%20to%20speak%20Polari%20II.docx#_msocom_2) 
+- Trade: A sexual partner or someone who is sexually available often a prostitute 
 
 These words may seem strange or even offensive to some people, but they were once an important part of the underground culture of LGBT communities in the UK. Learning these words can help you to better understand the history and culture of Polari, as well as to communicate with those who still use this unique language today.
 
