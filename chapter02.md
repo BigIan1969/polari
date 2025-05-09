@@ -203,321 +203,41 @@ Recap
 
 Here's a list of words and phrases we've encountered so far in our Polari Journey my we've been busy haven't we don't worry if you can't remember them all it all comes with practice.
 
-|
-
-**Term**
-
- |
-
-**Definition**
-
- |
-|
-
-Ajax
-
- |
-
-Nearby, here.
-
- |
-|
-
-Basket
-
- |
-
-The bulge of male genitalia.
-
- |
-|
-
-Bijou
-
- |
-
-Small and elegant.
-
- |
-|
-
-Bona
-
- |
-
-Good, nice, excellent.
-
- |
-|
-
-"Bona notchy"
-
- |
-
-Goodnight.
-
- |
-|
-
-Charpering
-
- |
-
-Eavesdropping, lurking around.
-
- |
-|
-
-Chicken
-
- |
-
-Young homosexual man/boy.
-
- |
-|
-
-Cod, Catever, Kerterver
-
- |
-
-Bad, tacky, gross, vile.
-
- |
-|
-
-Cottage
-
- |
-
-To seek sexual encounters in public toilets.
-
- |
-|
-
-Crimping the riah
-
- |
-
-Styling the hair.
-
- |
-|
-
-Dilly boy
-
- |
-
-Male prostitute.
-
- |
-|
-
-Dish
-
- |
-
-An attractive man or buttocks.
-
- |
-|
-
-Doss
-
- |
-
-Bed, place to sleep.
-
- |
-|
-
-Eek, Ecaf
-
- |
-
-Face.
-
- |
-|
-
-Fantabulosa
-
- |
-
-Fantastic or amazing.
-
- |
-|
-
-Gelt, Handbag
-
- |
-
-Money.
-
- |
-|
-
-Khazi
-
- |
-
-Toilet.
-
- |
-|
-
-Lallies
-
- |
-
-Legs.
-
- |
-|
-
-Lattie
-
- |
-
-Room, house, flat, abode.
-
- |
-|
-
-NAFF
-
- |
-
-Drab, dull or a heterosexual.
-
- |
-|
-
-Nanti
-
- |
-
-No, not, non.
-
- |
-|
-
-Oglefakes
-
- |
-
-Eyeglasses.
-
- |
-|
-
-Omie, Omi, Homie
-
- |
-
-Man.
-
- |
-|
-
-Omipalone
-
- |
-
-Gay man.
-
- |
-|
-
-Palone
-
- |
-
-Woman.
-
- |
-|
-
-Paloneomi
-
- |
-
-Lesbian.
-
- |
-|
-
-Riah
-
- |
-
-Hair.
-
- |
-|
-
-Scarper
-
- |
-
-To run away.
-
- |
-|
-
-TBH
-
- |
-
-To Be Had (Sexually available).
-
- |
-|
-
-Trade
-
- |
-
-Sex, A sexual partner often a prostitute.
-
- |
-|
-
-Troll
-
- |
-
-To walk about (looking for trade).
-
- |
-|
-
-Vada
-
- |
-
-To see, to look.
-
- |
-|
-
-"Vada the dolly dish"
-
- |
-
-Look at the pretty man.
-
- |
-|
-
-Zhoosh
-
- |
-
-Stylise, smarten, stylish.
-
- |
+| **Term** | **Definition** |
+| Ajax | Nearby, here. |
+| Basket | The bulge of male genitalia. |
+| Bijou | Small and elegant. |
+| Bona | Good, nice, excellent. |
+| "Bona notchy" | Goodnight.| 
+| Charpering | Eavesdropping, lurking around. |
+| Chicken | Young homosexual man/boy. | 
+| Cod, Catever, Kerterver | Bad, tacky, gross, vile. |
+| Cottage | To seek sexual encounters in public toilets. |
+| Crimping the riah | Styling the hair.| 
+| Dilly boy | Male prostitute. |
+| Dish | An attractive man or buttocks. |
+| Doss | Bed, place to sleep. |
+| Eek, Ecaf | Face. |
+| Fantabulosa | Fantastic or amazing. |
+| Gelt, Handbag | Money. |
+| Khazi | Toilet.|
+| Lallies | Legs. |
+| Lattie | Room, house, flat, abode. |
+| NAFF | Drab, dull or a heterosexual. |
+| Nanti | No, not, non. |
+| Oglefakes | Eyeglasses. |
+| Omie, Omi, Homie | Man. |
+| Omipalone | Gay man. |
+| Palone | Woman. |
+| Paloneomi | Lesbian. |
+| Riah | Hair. |
+| Scarper | To run away. |
+| TBH | To Be Had (Sexually available). |
+| Trade | Sex, A sexual partner often a prostitute. |
+| Troll | To walk about (looking for trade). |
+| Vada | To see, to look. |
+| "Vada the dolly dish" | Look at the pretty man. |
+| Zhoosh | Stylise, smarten, stylish. |
 
 You'll note that we've listed many of them with alternate spellings it's important to remember Polari was very much a spoken language and was hardly ever written down in fact this book is the first attempt I am aware of to write a guide to how to speak it although there are various books by Professor Paul Baker on the history of Polari and his Polari Dictionary.
 
