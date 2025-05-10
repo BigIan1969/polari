@@ -151,7 +151,7 @@ Recap
 
 Here are some more words we've encountered:
 
-|**Polari**|**Definition**|
+|**Word**|**Definition**|
 | ------ | ------ |
 |Her|He|
 |Him|She|
