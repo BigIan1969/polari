@@ -84,177 +84,26 @@ Recap
 
 Here are the new words & phrases we encountered in this chapter:
 
-|
-
-**Word**
-
- |
-
-**Description**
-
- |
-|
-
-Acting dickie
-
- |
-
-Working or busy.
-
- |
-|
-
-Betty bracelets
-
- |
-
-A cop or a police officer.
-
- |
-|
-
-Beverages or bevy
-
- |
-
-Drink or to drink.
-
- |
-|
-
-Bona drag
-
- |
-
-Phrase meaning "nice outfit."
-
- |
-|
-
-Bona omi
-
- |
-
-Boyfriend.
-
- |
-|
-
-Bona Vada
-
- |
-
-A common greeting that means "nice to see you."
-
- |
-|
-
-Bungery
-
- |
-
-Pub or bar.
-
- |
-|
-
-Cackle
-
- |
-
-A loud laugh.
-
- |
-|
-
-Carnish Ken
-
- |
-
-Restaurant or takeaway.
-
- |
-|
-
-Jarry
-
- |
-
-Food or to eat.
-
- |
-|
-
-Managarie
-
- |
-
-Food or to eat.
-
- |
-|
-
-Munge or mungerey
-
- |
-
-Food or to eat.
-
- |
-|
-
-Polaripipe
-
- |
-
-Telephone.
-
- |
-|
-
-Ruby Murray
-
- |
-
-Curry.
-
- |
-|
-
-Tom and Dick
-
- |
-
-Sick.
-
- |
-|
-
-Trolling down the bungery for swift bevie
-
- |
-
-Means "Walking down the pub for a quick drink"
-
- |
-|
-
-Vada the omie in the dinge chimey
-
- |
-
-Means "look at the guy in the dark shirt."
-
- |
-|
-
-Willets
-
- |
-
-Breasts.
-
- |
+|**Word**|**Description**|
+|------|------|
+|Acting dickie|Working or busy.|
+|Betty bracelets|A cop or a police officer.|
+|Beverages or bevy|Drink or to drink.|
+|Bona drag|Phrase meaning "nice outfit."|
+|Bona omi|Boyfriend.|
+|Bona Vada|A common greeting that means "nice to see you."|
+|Bungery|Pub or bar.|
+|Cackle|A loud laugh.|
+|Carnish Ken|Restaurant or takeaway.|
+|Jarry|Food or to eat.|
+|Managarie|Food or to eat.|
+|Munge or mungerey|Food or to eat.|
+|Polaripipe|Telephone.|
+|Ruby Murray|Curry.|
+|Tom and Dick|Sick.|
+|Trolling down the bungery for swift bevie|Means "Walking down the pub for a quick drink"|
+|Vada the omie in the dinge chimey|Means "look at the guy in the dark shirt."|
+|Willets|Breasts.|
 
 Exercise
 --------
