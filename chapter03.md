@@ -46,7 +46,7 @@ Pronouns:
 
 - Them: Them/They
 
-- Duchess: VIP
+- VIP: Duchess
 
 In Polari, pronouns are used much like they are in English, to refer to people or things in the context of a sentence. Nouns are used to describe people, things, or concepts, and can often have multiple meanings or connotations depending on the context in which they are used.
 
@@ -151,269 +151,34 @@ Recap
 
 Here are some more words we've encountered:
 
-|
-
-**Pronouns**
-
- |
-
-**Definition**
-
- |
-|
-
-Her
-
- |
-
-He
-
- |
-|
-
-Him
-
- |
-
-She
-
- |
-|
-
-I, Me
-
- |
-
-Mother (Normally used in the 3^rd^ person)
-
- |
-|
-
-It
-
- |
-
-A sexual partner
-
- |
-|
-
-Them
-
- |
-
-Them/They
-
- |
-|
-
-Us
-
- |
-
-We
-
- |
-|
-
-Duchess
-
- |
-
-VIP
-
- |
-
-|
-
-**Suffixes**
-
- |
-
-**Definition**
-
- |
-|
-
--ed
-
- |
-
-Past tense
-
- |
-|
-
--ette
-
- |
-
-Diminutive suffix, used to indicate smallness or cuteness
-
- |
-|
-
--ola
-
- |
-
-Derogatory suffix, used to indicate inferior quality
-
- |
-|
-
-Fake/Fakement
-
- |
-
-Something is artificial
-
- |
-|
-
-Cheat
-
- |
-
-Something is removed/stolen
-
- |
-
-|
-
-**Words**
-
- |
-
-**Definition**
-
- |
-|
-
-Aunty Nelly Fake
-
- |
-
-Earing
-
- |
-|
-
-Butch
-
- |
-
-Masculine, manly
-
- |
-|
-
-Camp
-
- |
-
-Flamboyant, effeminate
-
- |
-|
-
-Cartes
-
- |
-
-Penis
-
- |
-|
-
-Charper
-
- |
-
-To spy or eavesdrop
-
- |
-|
-
-Dilly
-
- |
-
-To prostitute oneself
-
- |
-|
-
-Dosh
-
- |
-
-Money
-
- |
-|
-
-Drag
-
- |
-
-Clothes
-
- |
-|
-
-Lullaby Cheat
-
- |
-
-Baby
-
- |
-|
-
-Omi-palone
-
- |
-
-Homosexual, gay
-
- |
-|
-
-Pots
-
- |
-
-Teeth
-
- |
-|
-
-Shush
-
- |
-
-To steal
-
- |
-|
-
-Strilla
-
- |
-
-Pianist
-
- |
-|
-
-Zoosh
-
- |
-
-To style hair
-
- |
+|**Polari**|**Definition**|
+| ------ | ------ |
+|Her|He|
+|Him|She|
+|I, Me|Mother (Normally used in the 3^rd^ person)|
+|It|A sexual partner|
+|Them|Them/They|
+|Us|We|
+|Duchess|VIP||**Suffixes**|**Definition**|
+|-ed|Past tense|
+|-ette|Diminutive suffix, used to indicate smallness or cuteness|
+|-ola|Derogatory suffix, used to indicate inferior quality|
+|Fake/Fakement|Something is artificial|
+|Cheat|Something is removed/stolen||**Words**|**Definition**|
+|Aunty Nelly Fake|Earing|
+|Butch|Masculine, manly|
+|Camp|Flamboyant, effeminate|
+|Cartes|Penis|
+|Charper|To spy or eavesdrop|
+|Dilly|To prostitute oneself|
+|Dosh|Money|
+|Drag|Clothes|
+|Lullaby Cheat|Baby|
+|Omi-palone|Homosexual, gay|
+|Pots|Teeth|
+|Shush|To steal|
+|Strilla|Pianist|
+|Zoosh|To style hair|
 
 Exercise
 --------
