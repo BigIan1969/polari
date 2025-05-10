@@ -238,195 +238,28 @@ Recap
 
 Words & Phrases encountered in this chapter:
 
-|
-
-**Word/Phrase**
-
- |
-
-**Translation**
-
- |
-|
-
-Palare
-
- |
-
-Another name for Polari
-
- |
-|
-
-Parlyaree
-
- |
-
-An older language Polari is based upon
-
- |
-|
-
-Mary
-
- |
-
-A male who is considered to be effeminate
-
- |
-|
-
-Charver
-
- |
-
-To ****
-
- |
-|
-
-Polone
-
- |
-
-A woman
-
- |
-|
-
-Vera
-
- |
-
-Truth or certainty
-
- |
-|
-
-Dolly
-
- |
-
-Pretty
-
- |
-|
-
-Bevvy
-
- |
-
-A drink
-
- |
-|
-
-Kaffies
-
- |
-
-Pants
-
- |
-|
-
-Lallie tappers
-
- |
-
-Dancing Shoes
-
- |
-|
-
-Ruby
-
- |
-
-An anus/A curry
-
- |
-|
-
-Billingsgate
-
- |
-
-Swearing, profanity
-
- |
-|
-
-Gelt
-
- |
-
-Money
-
- |
-|
-
-Lily law
-
- |
-
-The police
-
- |
-|
-
-Nanti cove
-
- |
-
-A heterosexual person
-
- |
-|
-
-Riah shushers
-
- |
-
-Hairdressers
-
- |
-|
-
-Strides
-
- |
-
-Trousers
-
- |
-|
-
-Nanty
-
- |
-
-Nothing
-
- |
-|
-
-Rough trade
-
- |
-
-A violent sexual partner
-
- |
-|
-
-Loaf
-
- |
-
-Head
-
- |
+|**Word/Phrase**|**Translation**|
+|------|------|
+|Palare|Another name for Polari|
+|Parlyaree|An older language Polari is based upon|
+|Mary|A male who is considered to be effeminate|
+|Charver|To ****|
+|Polone|A woman|
+|Vera|Truth or certainty, also Gin|
+|Dolly|Pretty|
+|Bevvy|A drink|
+|Kaffies|Pants|
+|Lallie tappers|Dancing Shoes|
+|Ruby|An anus/A curry|
+|Billingsgate|Swearing, profanity|
+|Gelt|Money|
+|Lily law|The police|
+|Nanti cove|A heterosexual person|
+|Riah shushers|Hairdressers|
+|Strides|Trousers|
+|Nanty|Nothing|
+|Rough trade|A violent sexual partner|
+|Loaf|Head|
 
 Exercise
 --------
