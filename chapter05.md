@@ -8,11 +8,11 @@ Polari is a unique and fascinating language that has its roots in a variety of s
 
 Lingua Franca was a pidgin language used by traders and sailors in the Mediterranean during the Middle Ages. It combined Italian, Spanish, French, and Arabic, among other languages, to create a simple and functional language for communication between people who spoke different native languages.
 
-Polariyari, on the other hand, was a language used by fairground and circus workers in the 19th century. It involved using a unique set of slang terms and phrases to communicate with each other, often in the presence of customers who wouldn't understand what they were saying.
+Polariyari, on the other hand, was a language used by fairground and circus workers in the 19th century. It involved using a unique set of slang terms and phrases to communicate with each other, often in the presence of customers who wouldn't understand what they were saying. It drew heavily on Lingua Franca and Romani.
 
 Back slang was another important influence on Polari. This involved reversing words, so that "back" became "kcab," for example. It was often used by street vendors and market traders in the 19th century to communicate with each other without customers understanding what they were saying.
 
-Molly slang, meanwhile, was a language used by prostitutes in Victorian London. It involved using a set of coded terms and phrases to communicate with each other, often in the presence of clients who wouldn't understand what they were saying.
+Molly slang, meanwhile, was a language used by prostitutes in 18th century London. It involved using a set of coded terms and phrases to communicate with each other, often in the presence of clients who wouldn't understand what they were saying.
 
 Polari drew on all these influences, as well as others, to create a language that was both functional and expressive. It was particularly popular among LGBT communities in the mid-20th century, when it became a secret code used by gay men to communicate with each other without fear of persecution or misunderstanding.
 
@@ -50,7 +50,7 @@ In the 1950s and 1960s, Polari became more widespread among the LGBTQ+ community
 
 Polari's popularity began to decline in the 1970s as the LGBTQ+ community became more visible and accepted in mainstream society. However, it still holds a special place in the hearts of many LGBTQ+ people, especially those who lived through the darker days of persecution and discrimination.
 
-Today, Polari is celebrated as a unique and important part of LGBTQ+ history and culture. It has been featured in movies, TV shows, and literature, and continues to be used as a way for LGBTQ+ people to connect with their past and each other.
+Today, Polari is celebrated as a unique and important part of LGBTQ+ history and culture. It has been featured in movies, Radio & TV shows, and literature, and continues to be used as a way for LGBTQ+ people to connect with their past and each other.
 
 Learning Polari can be a way to connect with this rich history and culture and to pay homage to the LGBTQ+ pioneers who used the language to fight for their rights and express their identities. It can also be a fun and playful way to communicate with other LGBTQ+ people and to create a sense of community and belonging.
 
