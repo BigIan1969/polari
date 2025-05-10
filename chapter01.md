@@ -20,7 +20,6 @@ Whether you're a language enthusiast, an LGBT history buff, or simply curious ab
 
 Julian and Sandy: The Trial of Oscar Wild
 -----------------------------------------
-```
 As Julian and Sandy led the tourists through the winding streets of London, they arrived at a mysterious blue box. "This, Gillies and Flatties, is the Montrell Cheat," Julian exclaimed, as they stepped inside. "It's our means of traveling through time and space, darling!" Sandy added, twirling his moustache.
 
 The tourists looked at each other with a mixture of excitement and confusion.
@@ -56,4 +55,3 @@ As the trial went on, we saw the evidence mount against Wilde, and it became cle
 Julian turned to us and said, "This is a dark day for the LGBT+ community. But we must remember that Wilde's trial and the adoption of Polari were crucial moments in our history. They paved the way for future generations to be themselves and love who they love."
 
 We left the courtroom feeling sombre but also grateful for the opportunity to witness such an important event. As we stepped back into the Montrel Cheat, Sandy turned to us and said, "Well, that was a heavy trip. How about we go somewhere and get a bevvy to lighten the mood?"
-```
