@@ -43,7 +43,6 @@ Part of the appeal of Polari lies in its expressive power. Its unique vocabulary
 By learning Polari, you'll be joining a growing community of people who are passionate about this unique and vibrant language. You'll also be connecting with a rich cultural history and exploring a language that has played a crucial role in the lives of LGBT people throughout the 20th century.
 
 So, whether you're interested in learning Polari for fun, for research, or for personal enrichment, this book is the perfect place to start. We'll take you through the language's history, grammar, and vocabulary step by step, giving you the tools, you need to speak and understand this fascinating language for yourself.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Future developments and directions for Polari
 ---------------------------------------------
