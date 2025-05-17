@@ -153,15 +153,15 @@ C. 9
 
 D. 12
 
-5. If you multiply Dewey by Chinker, what is the product?
+5. What does "There were dewey orderly daughters in the charperingcart" mean?
 
-A. 2
+A. There were two policemen in the police car
 
-B. 5
+B. There were five policemen in the police car
 
-C. 10
+C. There were ten policemen in the police van
 
-D. 15
+D. There were fifteen policemen in the police van
 
 6. What is the sum of Setter, Trey, and Dewey?
 
@@ -193,15 +193,15 @@ C. 2
 
 D. 5
 
-9. If you subtract Trey from Daiture, what is the result?
+9. What does "I'll meet you outside the bungery at trey" mean?
 
-A. 2
+A. I'll meet you outside the pub at two
 
-B. 5
+B. I'll meet you outside the pub at three
 
-C. 7
+C. I'll meet you outside the pub at seven
 
-D. 9
+D. I'll meet you outside the pub at nine
 
 10.  If you subtract Setter from Kenza, what is the result?
 
