@@ -203,51 +203,50 @@ Recap
 
 Here's a list of words and phrases we've encountered so far in our Polari Journey my we've been busy haven't we don't worry if you can't remember them all it all comes with practice.
 
-## Glossary of Polari Terms
-
-| Polari Term | Meaning(s)                                                     |
-| :---------- | :--------------------------------------------------------------- |
-| Ajax        | Nearby, Here                                                   |
-| Basket      | The bulge of male genitalia                                    |
-| Bijou       | Small and elegant                                              |
-| Bona        | Good, Nice, Excellent                                          |
-| Camp        | Over-the-top, effeminate, flamboyant                           |
-| Catever     | Bad, Tacky, Gross, Vile                                        |
-| Charpering  | Eavesdropping, lurking around                                  |
-| Chicken     | Young homosexual man/boy                                        |
-| Cod         | Bad, Tacky, Gross, Vile                                        |
-| Cottage     | To seek sexual encounters in public toilets                    |
-| Crimping the riah | Styling the hair                                           |
-| Dish        | An attractive man or buttocks                                  |
-| Dilly boy   | Male prostitute                                                 |
-| Dolly       | Pretty, Attractive                                             |
-| Doss        | Bed, Place to sleep                                            |
-| Drag        | Clothing or outfit                                             |
-| Eek, Ecaf   | Face                                                           |
-| Fantabulosa | Fantastic or amazing                                           |
-| Gelt        | Money                                                          |
-| Handbag     | Money                                                          |
-| Kerterver   | Bad, Tacky, Gross, Vile                                        |
-| Khazi       | Toilet                                                         |
-| Lallies     | Legs                                                           |
-| Lattie      | Room, House, Flat, Abode                                       |
-| Lilly Law   | The Police                                                     |
-| Montrel Cheat | (Implied context: a vehicle or method of transport)           |
-| NAFF        | Drab, Dull or a Heterosexual, Bad, not good, inferior, straight |
-| Nanti       | No, Not, Non                                                   |
-| Notchy      | Night (in "Bona notchy")                                       |
-| Oglefakes   | Eyeglasses                                                     |
-| Omi         | Man                                                            |
-| Omipalone   | Gay man                                                        |
-| Palone      | Woman                                                          |
-| Paloneomi   | Lesbian                                                        |
-| Riah        | Hair                                                           |
-| Scarper     | To run away                                                    |
-| TBH         | To Be Had (Sexually available)                                 |
-| Trade       | Sex, A sexual partner or someone who is sexually available     |
-| Troll       | To Walk About (Looking for trade)                              |
-| Vada        | See, To See, Look                                              |
-| Zhoosh      | Stylise, Smarten, Stylish, To style or make something attractive|
+| Polari Term     | Meaning(s)                                                     | Part of Speech |
+| :-------------- | :--------------------------------------------------------------- | :------------- |
+| Ajax            | Nearby, Here                                                   | Adverb       |
+| Basket          | The bulge of male genitalia                                    | Noun         |
+| Bijou           | Small and elegant                                              | Adjective    |
+| Bona            | Good, Nice, Excellent                                          | Adjective    |
+| Camp            | Over-the-top, effeminate, flamboyant                           | Adjective    |
+| Catever         | Bad, Tacky, Gross, Vile                                        | Adjective    |
+| Charpering      | Eavesdropping, lurking around                                  | Noun         |
+| Chicken         | Young homosexual man/boy                                        | Noun         |
+| Cod             | Bad, Tacky, Gross, Vile                                        | Adjective    |
+| Cottage         | To seek sexual encounters in public toilets                    | Verb         |
+| Crimping the riah | Styling the hair                                           | Verb phrase  |
+| Dilly boy       | Male prostitute                                                 | Noun         |
+| Dish            | An attractive man or buttocks                                  | Noun         |
+| Dolly           | Pretty, Attractive                                             | Adjective    |
+| Doss            | Bed, Place to sleep                                            | Noun         |
+| Drag            | Clothing or outfit                                             | Noun         |
+| Eek, Ecaf       | Face                                                           | Noun         |
+| Fantabulosa     | Fantastic or amazing                                           | Adjective    |
+| Gelt            | Money                                                          | Noun         |
+| Handbag         | Money                                                          | Noun         |
+| Kerterver       | Bad, Tacky, Gross, Vile                                        | Adjective    |
+| Khazi           | Toilet                                                         | Noun         |
+| Lallies         | Legs                                                           | Noun         |
+| Lattie          | Room, House, Flat, Abode                                       | Noun         |
+| Lilly Law       | The Police                                                     | Noun         |
+| Montrel Cheat   | (Implied context: a vehicle or method of transport)           | Noun         |
+| NAFF            | Drab, Dull or a Heterosexual, Bad, not good, inferior, straight | Adjective    |
+| Nanti           | No, Not, Non                                                   | Adverb       |
+| Notchy          | Night (in "Bona notchy")                                       | Noun         |
+| Oglefakes       | Eyeglasses                                                     | Noun         |
+| Omi             | Man                                                            | Noun         |
+| Omie            | Man                                                            | Noun         |
+| Omipalone       | Gay man                                                        | Noun         |
+| Palone          | Woman                                                          | Noun         |
+| Paloneomi       | Lesbian                                                        | Noun         |
+| Riah            | Hair                                                           | Noun         |
+| Scarper         | To run away                                                    | Verb         |
+| TBH             | To Be Had (Sexually available)                                 | Adjective    |
+| Trade           | Sex, A sexual partner or someone who is sexually available     | Noun         |
+| Troll           | To Walk About (Looking for trade)                              | Verb         |
+| Vada            | See, To See, Look                                              | Verb         |
+| Zhoosh          | Stylise, Smarten, Stylish, To style or make something attractive| Verb         |
 
 **Phrases:**
 
@@ -259,9 +258,6 @@ Here's a list of words and phrases we've encountered so far in our Polari Journe
 | "Bona notchy"               | Goodnight                                     |
 | "Vada the bona dish"        | Look at the attractive man.                   |
 | "Vada the dolly dish"       | Look at the pretty man.                      |
-
-You'll note that we've listed many of them with alternate spellings it's important to remember Polari was very much a spoken language and was hardly ever written down in fact this book is the first attempt I am aware of to write a guide to how to speak it although there are various books by Professor Paul Baker on the history of Polari and his Polari Dictionary.
-
 Exercise
 --------
 
