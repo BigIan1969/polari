@@ -8,7 +8,7 @@ Polari is a unique and fascinating language that has its roots in a variety of s
 
 Lingua Franca was a pidgin language used by traders and sailors in the Mediterranean during the Middle Ages. It combined Italian, Spanish, French, and Arabic, among other languages, to create a simple and functional language for communication between people who spoke different native languages.
 
-Polariyari, on the other hand, was a language used by fairground and circus workers in the 19th century. It involved using a unique set of slang terms and phrases to communicate with each other, often in the presence of customers who wouldn't understand what they were saying. It drew heavily on Lingua Franca and Romani.
+Polariyari, on the other hand, was a language used by fairground and circus workers in the 19th century. It involved using a unique set of slang terms and phrases to communicate with each other, often in the presence of customers who wouldn't understand what they were saying. It drew heavily on Lingua Franca, Romani and many other sources.
 
 Back slang was another important influence on Polari. This involved reversing words, so that "back" became "kcab," for example. It was often used by street vendors and market traders in the 19th century to communicate with each other without customers understanding what they were saying.
 
@@ -27,7 +27,7 @@ B[Polariyaree]
 C[Lingua Franca]
 D(French)
 E(English)
-F(Romani)
+F([Romani])
 G([Cockney])
 H(Cantabrian)
 I([Punch & Judy])
@@ -191,8 +191,6 @@ It is important to acknowledge that Polari was a language that developed among g
 
 In recent years, there has been a growing recognition of the need to include and celebrate the experiences of trans individuals within the LGBT+ community. As such, efforts have been made to develop new vocabulary and terminology that reflects the diversity of gender identities and expressions.
 
-While Polari may not have had the words to describe transgender individuals in a positive way, it is important to remember that language is constantly evolving, and it is up to us to create new words and phrases that are inclusive and respectful of all individuals.
-
 Polari and the disabled community
 ---------------------------------
 
@@ -204,7 +202,7 @@ It is essential to approach the topic of disability and language with sensitivit
 
 Creating an inclusive environment requires recognizing and understanding the distinct needs and experiences of individuals with disabilities. It is always important to prioritize the use of person-first language, which places the person before their disability, and to be receptive to individual preferences and cultural nuances when communicating and referring to disabled individuals.
 
-As Polari continues to evolve and adapt, it is essential to embrace inclusive practices and foster an environment that respects the experiences and identities of all individuals, including those with disabilities. Language plays a powerful role in shaping perceptions and promoting inclusivity, and by being mindful of our words and actions, we can contribute to a more inclusive and supportive society for all.
+It is essential to embrace inclusive practices and foster an environment that respects the experiences and identities of all individuals, including those with disabilities. Language plays a powerful role in shaping perceptions and promoting inclusivity, and by being mindful of our words and actions, we can contribute to a more inclusive and supportive society for all.
 
 Polari and class
 ----------------
