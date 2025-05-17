@@ -88,7 +88,6 @@ Here are the new words & phrases we encountered in this chapter:
 | :------------ | :------------------------------------------------------------------------- | :------------- |
 | Beverage, Bevy | Drink                                                                      | Noun           |
 | Betty bracelets | (Implied) A cop (from rhyming slang: Betty Bracelets = Bracelets = Cuffs) | Noun           |
-| Bloke         | Man, fellow                                                                | Noun           |
 | Bona          | Good, nice                                                                 | Adjective      |
 | Bungery       | Pub or Bar                                                                 | Noun           |
 | Cackle        | Loud laugh                                                                 | Noun           |
