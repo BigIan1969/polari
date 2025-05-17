@@ -203,43 +203,62 @@ Recap
 
 Here's a list of words and phrases we've encountered so far in our Polari Journey my we've been busy haven't we don't worry if you can't remember them all it all comes with practice.
 
-| **Term** | **Definition** |
-| ------ | ------ |
-| Ajax | Nearby, here. |
-| Basket | The bulge of male genitalia. |
-| Bijou | Small and elegant. |
-| Bona | Good, nice, excellent. |
-| "Bona notchy" | Goodnight.| 
-| Charpering | Eavesdropping, lurking around. |
-| Chicken | Young homosexual man/boy. | 
-| Cod, Catever, Kerterver | Bad, tacky, gross, vile. |
-| Cottage | To seek sexual encounters in public toilets. |
-| Crimping the riah | Styling the hair.| 
-| Dilly boy | Male prostitute. |
-| Dish | An attractive man or buttocks. |
-| Doss | Bed, place to sleep. |
-| Eek, Ecaf | Face. |
-| Fantabulosa | Fantastic or amazing. |
-| Gelt, Handbag | Money. |
-| Khazi | Toilet.|
-| Lallies | Legs. |
-| Lattie | Room, house, flat, abode. |
-| NAFF | Drab, dull or a heterosexual. |
-| Nanti | No, not, non. |
-| Oglefakes | Eyeglasses. |
-| Omie, Omi, Homie | Man. |
-| Omipalone | Gay man. |
-| Palone | Woman. |
-| Paloneomi | Lesbian. |
-| Riah | Hair. |
-| Scarper | To run away. |
-| TBH | To Be Had (Sexually available). |
-| Trade | Sex, A sexual partner often a prostitute. |
-| Troll | To walk about (looking for trade). |
-| Vada | To see, to look. |
-| "Vada the dolly dish" | Look at the pretty man. |
-| Zhoosh | Stylise, smarten, stylish. |
+## Glossary of Polari Terms
 
+| Polari Term | Meaning(s)                                                     |
+| :---------- | :--------------------------------------------------------------- |
+| Ajax        | Nearby, Here                                                   |
+| Basket      | The bulge of male genitalia                                    |
+| Bijou       | Small and elegant                                              |
+| Bona        | Good, Nice, Excellent                                          |
+| Camp        | Over-the-top, effeminate, flamboyant                           |
+| Catever     | Bad, Tacky, Gross, Vile                                        |
+| Charpering  | Eavesdropping, lurking around                                  |
+| Chicken     | Young homosexual man/boy                                        |
+| Cod         | Bad, Tacky, Gross, Vile                                        |
+| Cottage     | To seek sexual encounters in public toilets                    |
+| Crimping the riah | Styling the hair                                           |
+| Dish        | An attractive man or buttocks                                  |
+| Dilly boy   | Male prostitute                                                 |
+| Dolly       | Pretty, Attractive                                             |
+| Doss        | Bed, Place to sleep                                            |
+| Drag        | Clothing or outfit                                             |
+| Eek, Ecaf   | Face                                                           |
+| Fantabulosa | Fantastic or amazing                                           |
+| Gelt        | Money                                                          |
+| Handbag     | Money                                                          |
+| Kerterver   | Bad, Tacky, Gross, Vile                                        |
+| Khazi       | Toilet                                                         |
+| Lallies     | Legs                                                           |
+| Lattie      | Room, House, Flat, Abode                                       |
+| Lilly Law   | The Police                                                     |
+| Montrel Cheat | (Implied context: a vehicle or method of transport)           |
+| NAFF        | Drab, Dull or a Heterosexual, Bad, not good, inferior, straight |
+| Nanti       | No, Not, Non                                                   |
+| Notchy      | Night (in "Bona notchy")                                       |
+| Oglefakes   | Eyeglasses                                                     |
+| Omi         | Man                                                            |
+| Omipalone   | Gay man                                                        |
+| Palone      | Woman                                                          |
+| Paloneomi   | Lesbian                                                        |
+| Riah        | Hair                                                           |
+| Scarper     | To run away                                                    |
+| TBH         | To Be Had (Sexually available)                                 |
+| Trade       | Sex, A sexual partner or someone who is sexually available     |
+| Troll       | To Walk About (Looking for trade)                              |
+| Vada        | See, To See, Look                                              |
+| Zhoosh      | Stylise, Smarten, Stylish, To style or make something attractive|
+
+**Phrases:**
+
+| Polari Phrase             | Meaning                                       |
+| :-------------------------- | :-------------------------------------------- |
+| "Bona Vada"                 | Nice to see you.                              |
+| "Bona vada your dolly old eek" | Nice to see your pretty old face (Traditional Polari Greeting). |
+| "Bona to vada"              | Good to see you.                              |
+| "Bona notchy"               | Goodnight                                     |
+| "Vada the bona dish"        | Look at the attractive man.                   |
+| "Vada the dolly dish"       | Look at the pretty man.                      |
 You'll note that we've listed many of them with alternate spellings it's important to remember Polari was very much a spoken language and was hardly ever written down in fact this book is the first attempt I am aware of to write a guide to how to speak it although there are various books by Professor Paul Baker on the history of Polari and his Polari Dictionary.
 
 Exercise
