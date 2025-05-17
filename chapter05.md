@@ -236,30 +236,25 @@ With that, Julian and Sandy make their way out of the studio, ready to face what
 Recap
 -----
 
-Words & Phrases encountered in this chapter:
+Words encountered in this chapter:
 
-|**Word/Phrase**|**Translation**|
-|------|------|
-|Palare|Another name for Polari|
-|Parlyaree|An older language Polari is based upon|
-|Mary|A male who is considered to be effeminate|
-|Charver|To ****|
-|Polone|A woman|
-|Vera|Truth or certainty, also Gin|
-|Dolly|Pretty|
-|Bevvy|A drink|
-|Kaffies|Pants|
-|Lallie tappers|Dancing Shoes|
-|Ruby|An anus/A curry|
-|Billingsgate|Swearing, profanity|
-|Gelt|Money|
-|Lily law|The police|
-|Nanti cove|A heterosexual person|
-|Riah shushers|Hairdressers|
-|Strides|Trousers|
-|Nanty|Nothing|
-|Rough trade|A violent sexual partner|
-|Loaf|Head|
+| Polari Term        | Meaning(s)                                                                                                                               | Part of Speech |
+| :----------------- | :--------------------------------------------------------------------------------------------------------------------------------------- | :------------- |
+| Betty Bracelets    | The police (feminized)                                                                                                                   | Noun phrase    |
+| Charpering Omi     | (Implied) A spying policeman                                                                                                             | Noun phrase    |
+| Dingeomi           | Derogatory term for a person of colour                                                                                                   | Noun           |
+| Goolieomi          | Derogatory term for a person of colour                                                                                                   | Noun           |
+| Hilda Handcuffs    | The police (feminized)                                                                                                                   | Noun phrase    |
+| Jennifer Justice   | The police (feminized)                                                                                                                   | Noun phrase    |
+| Lilly Law          | The police (feminized)                                                                                                                 | Noun           |
+| Molly slang        | Language used by prostitutes in 18th century London                                                                                     | Noun           |
+| Montrell Cheat     | (Implied: a mode of transport that causes displacement in time)                                                                          | Noun           |
+| Naff               | Shabby-looking                                                                                                                           | Adjective      |
+| Orderly Daughters  | The police (feminized)                                                                                                                   | Noun phrase    |
+| Pig Latin          | A language game in which words are altered by moving the initial consonant or consonant cluster of a word to the end of the word and adding a suffix, typically -ay. | Noun           |
+| Polariyari         | A language used by fairground and circus workers, an early influence on Polari                                                          | Noun           |
+| Remodel           | Transgender (considered highly derogatory)                                                                                              | Verb           |
+| Schwartzomi        | Derogatory term for a person of colour                                                                                                   | Noun           |
 
 Exercise
 --------
@@ -314,7 +309,7 @@ C. New Zealand navy
 
 D. United States navy
 
-6. Polari speakers used derogatory terms like "dingeomi," "goolieomi," and "schwartzomi" to exclude and marginalize:
+6. Some polari speakers used derogatory terms like "dingeomi," "goolieomi," and "schwartzomi" to exclude and marginalize:
 
 A. Women
 
@@ -332,7 +327,7 @@ B. Disabled
 
 C. Upper class
 
-D. Non-binary
+D. A person of colour
 
 8. Polari's vocabulary primarily focused on which communities?
 
