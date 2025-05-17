@@ -255,7 +255,7 @@ Here's a list of words and phrases we've encountered so far in our Polari Journe
 | "Bona vada your dolly old eek" | Nice to see your pretty old face (Traditional Polari Greeting). |
 | "Bona to vada"              | Good to see you.                              |
 | "Bona notchy"               | Goodnight                                     |
-| Crimping the riah           | Styling the hair                              |
+| "Crimping the riah"         | Styling the hair                              |
 | "Vada the bona dish"        | Look at the attractive man.                   |
 | "Vada the dolly dish"       | Look at the pretty man.                      |
 
