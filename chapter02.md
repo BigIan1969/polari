@@ -229,7 +229,7 @@ Here's a list of words and phrases we've encountered so far in our Polari Journe
 | Lallies         | Legs                                                           | Noun         |
 | Lattie          | Room, House, Flat, Abode                                       | Noun         |
 | Lilly Law       | The Police                                                     | Noun         |
-| Montrel Cheat   | Time Remover (Montrel is a clock or a watch, Cheat is to steal or remove| Noun         |
+| Montrel Cheat   | Time Remover (Montrel is a clock or a watch, Cheat is to steal or remove)| Noun         |
 | NAFF            | Drab, Dull or a Heterosexual, Bad, not good, inferior, straight | Adjective    |
 | Nanti           | No, Not, Non                                                   | Adverb       |
 | Notchy          | Night (in "Bona notchy")                                       | Noun         |
