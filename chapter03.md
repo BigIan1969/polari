@@ -181,8 +181,7 @@ Here are some more words and phrases we've encountered:
 | She                | Him                                                         | Pronoun        |
 | Shush              | To steal                                                    | Verb           |
 | Strilla            | Pianist                                                     | Noun           |
-| Them/They          | Them                                                        | Pronoun        |
-| Troll              | To walk aimlessly or wander                                 | Verb           |
+| Troll              | To walk about looking for sex                               | Verb           |
 | Vada               | To see or look.                                             | Verb           |
 | We                 | Us                                                          | Pronoun        |
 | You                | You                                                         | Pronoun        |
