@@ -370,7 +370,7 @@ Here's some more phrases you might want to practice
 
 - I'm going to put on my lallie tappers.
 
-- Have you tried the ruby at that new restaurant?
+- Have you tried the ruby at that new carnish ken?
 
 - Mind your billingsgate.
 
