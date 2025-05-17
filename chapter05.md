@@ -16,6 +16,65 @@ Molly slang, meanwhile, was a language used by prostitutes in 18th century Londo
 
 Polari drew on all these influences, as well as others, to create a language that was both functional and expressive. It was particularly popular among LGBT communities in the mid-20th century, when it became a secret code used by gay men to communicate with each other without fear of persecution or misunderstanding.
 
+```mermaid
+---
+title: Origins of Polari
+---
+flowchart RL
+
+A[Polari]
+B[Polariyaree]
+C[Lingua Franca]
+D(French)
+E(English)
+F(Romani)
+G([Cockney])
+H(Cantabrian)
+I([Punch & Judy])
+J([Tinker])
+K([Molly Slang])
+L([Thieves Cant])
+M(Spanish)
+N(Occitan)
+O(Itialian)
+P(Turkish)
+Q(Arabic)
+X(Persian)
+R([GI Slang])
+S([Drug Slang])
+T([Cockney Rhyming Slang])
+U([Yiddish])
+V([Pig Latin])
+W([Back Slang])
+B --> A
+C --> B
+D --> B
+E --> B
+F --> B
+G --> B
+H --> B
+I --> B
+J --> B
+W --> B
+V --> A
+V --> B
+K --> B
+L --> B
+L --> K
+M --> C
+N --> C
+O --> C
+P --> C
+X --> C
+Q --> C
+R --> A
+T --> A
+S --> A
+T --> B
+U --> A
+U --> B
+```
+
 Polari in entertainment and media
 ---------------------------------
 
