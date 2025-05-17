@@ -25,7 +25,7 @@ While Polari was not commonly used to order food and drink, it was often used to
 
 - "Do you think the bona waiter has any naff managarie we should avoid?" (Translation: "Do you think the good waiter has any bad dishes we should steer clear of?")
 
-- "Did you see the vada on that barmaid? She's got a lovely pair of willets." (Translation: "Did you see the look on that female bartender? She's got a nice pair of breasts.")
+- "Did you see the vada on that barmaid?" (Translation: "Did you see the look on that female bartender?")
 
 - "I'm not sure about that naff bloke at the end of the bar. She looks like he might be betty bracelets." (Translation: "I'm not sure about that bad man at the end of the bar. He looks like he might be a cop.")
 
