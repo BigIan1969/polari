@@ -120,7 +120,7 @@ Here are the new words & phrases we encountered in this chapter:
 | "Vada the omie in the dinge chimey I wonder if she's trade?" | Look at the guy in the dark shirt I wonder if he's available (Sexually)? |
 | "That omi over there with the cackle and the comb over is giving me the creeps." | That man over there with the loud laugh and the bad hairstyle is making me uncomfortable. |
 | "Do you think the bona waiter has any naff managarie we should avoid?" | Do you think the good waiter has any bad dishes we should steer clear of? |
-| "Did you see the vada on that barmaid? She's got a lovely pair of willets." | Did you see the look on that female bartender? She's got a nice pair of breasts. |
+| "Did you see the vada on that barmaid?" | Did you see the look on that female bartender? |
 | "I'm not sure about that naff bloke at the end of the bar. She looks like he might be betty bracelets." | I'm not sure about that bad man at the end of the bar. He looks like he might be a cop. |
 | "Let's meet at the Bungery at six"    | Let's meet at the pub at six.                                           |
 | "I'll give you a tinkle on the Polaripipe later" | I'll call you on the phone later.                                        |
