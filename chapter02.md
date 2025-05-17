@@ -215,7 +215,6 @@ Here's a list of words and phrases we've encountered so far in our Polari Journe
 | Chicken         | Young homosexual man/boy                                        | Noun         |
 | Cod             | Bad, Tacky, Gross, Vile                                        | Adjective    |
 | Cottage         | To seek sexual encounters in public toilets                    | Verb         |
-| Crimping the riah | Styling the hair                                           | Verb phrase  |
 | Dilly boy       | Male prostitute                                                 | Noun         |
 | Dish            | An attractive man or buttocks                                  | Noun         |
 | Dolly           | Pretty, Attractive                                             | Adjective    |
@@ -230,7 +229,7 @@ Here's a list of words and phrases we've encountered so far in our Polari Journe
 | Lallies         | Legs                                                           | Noun         |
 | Lattie          | Room, House, Flat, Abode                                       | Noun         |
 | Lilly Law       | The Police                                                     | Noun         |
-| Montrel Cheat   | (Implied context: a vehicle or method of transport)           | Noun         |
+| Montrel Cheat   | Time Remover (Montrel is a clock or a watch, Cheat is to steal or remove| Noun         |
 | NAFF            | Drab, Dull or a Heterosexual, Bad, not good, inferior, straight | Adjective    |
 | Nanti           | No, Not, Non                                                   | Adverb       |
 | Notchy          | Night (in "Bona notchy")                                       | Noun         |
@@ -243,7 +242,7 @@ Here's a list of words and phrases we've encountered so far in our Polari Journe
 | Riah            | Hair                                                           | Noun         |
 | Scarper         | To run away                                                    | Verb         |
 | TBH             | To Be Had (Sexually available)                                 | Adjective    |
-| Trade           | Sex, A sexual partner or someone who is sexually available     | Noun         |
+| Trade           | Sex, A sexual partner, A prostitute or someone who is sexually available     | Noun         |
 | Troll           | To Walk About (Looking for trade)                              | Verb         |
 | Vada            | See, To See, Look                                              | Verb         |
 | Zhoosh          | Stylise, Smarten, Stylish, To style or make something attractive| Verb         |
@@ -256,8 +255,10 @@ Here's a list of words and phrases we've encountered so far in our Polari Journe
 | "Bona vada your dolly old eek" | Nice to see your pretty old face (Traditional Polari Greeting). |
 | "Bona to vada"              | Good to see you.                              |
 | "Bona notchy"               | Goodnight                                     |
+| Crimping the riah           | Styling the hair                              |
 | "Vada the bona dish"        | Look at the attractive man.                   |
 | "Vada the dolly dish"       | Look at the pretty man.                      |
+
 Exercise
 --------
 
