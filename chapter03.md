@@ -52,7 +52,7 @@ In Polari, pronouns are used much like they are in English, to refer to people o
 
 In Polari pronouns are often reversed so He becomes She and vice versa.  It is also important to remember that joining the LGBT community in a time when it was illegal to be gay was more like an induction or an initiation normally involving being given a new name.  This wasn't always done in an affectionate way as often if a new member was seen as too pretty or too full of themselves their compatriots would select a dull name to take them down a peg or two.  Trust me when I explained this for the first time while giving a talk on Polari the delegates immediately seized on the idea and christened me Deirdre (And it stuck).
 
-When using the self-referential pronoun Mother it is common practice to phrase it in the 3^rd^ person so for example "I want to go out to dinner" becomes "Mother wants to go out for dinner"
+When using the self-referential pronoun Mother it is common practice to phrase it in the 3<sup>rd</sup> person so for example "I want to go out to dinner" becomes "Mother wants to go out for dinner"
 
 As with any language, the best way to become familiar with Polari nouns and pronouns is through practice and exposure to the language in use.  Remember for better or worse your Polari name is selected by your Polari speaking friends I hope they're not as catty as mine.
 
@@ -98,7 +98,7 @@ Here are some commonly used verbs in Polari:
 
 - Shush: To steal
 
-- Troll: To walk aimlessly or wander
+- Troll: To walk/stroll about potentially looking for sex
 
 - Vada: To see or look.
 
@@ -309,8 +309,6 @@ B. The speaker
 C. An object
 
 D. The LGBT community
-
-Top of Form
 
 Practice
 --------
