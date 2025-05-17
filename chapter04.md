@@ -93,20 +93,18 @@ Here are the new words & phrases we encountered in this chapter:
 | Bungery       | Pub or Bar                                                                 | Noun           |
 | Cackle        | Loud laugh                                                                 | Noun           |
 | Carnish Ken   | Restaurant or Takeaway                                                     | Noun           |
-| Comb over     | Bad hairstyle (specifically a comb-over)                                   | Noun           |
 | Dinge chimey  | Dark shirt                                                                 | Noun phrase    |
-| Dishy bloke   | Attractive man                                                             | Noun phrase    |
+| Dishy omi     | Attractive man                                                             | Noun phrase    |
 | Drag          | Outfit, clothes                                                            | Noun           |
 | Jarry, Manage, Managery, Munge, Mungerey | Food or to eat                                                              | Noun, Verb     |
 | Naff          | Bad                                                                        | Adjective      |
 | Omi           | Man, guy                                                                   | Noun           |
 | Polaripipe    | Telephone                                                                  | Noun           |
 | Ruby Murray     | Curry (from rhyming slang)                                                 | Noun           |
-| Swift bevie   | Pint (quick drink)                                                         | Noun phrase    |
-| Tinkle        | Call (on the phone)                                                        | Noun, Verb     |
+| Swift bevie   | quick drink                                                                | Noun phrase    |
 | Tom and Dick  | Sick (from rhyming slang: Tom and Dick = Sick)                             | Adjective      |
-| Trade         | Sexually available                                                         | Noun           |
-| Troll         | Coming, going, walking                                                     | Verb           |
+| Trade         | Sexually available, A prostitue                                            | Noun           |
+| Troll         | Coming, going, walking about looking for sex                               | Verb           |
 | Vada          | Look                                                                       | Verb           |
 | Willets       | Breasts                                                                    | Noun           |
 
@@ -116,10 +114,10 @@ Here are the new words & phrases we encountered in this chapter:
 | :------------------------------------ | :------------------------------------------------------------------------ |
 | "Bona Vada"                           | Nice to see you.                                                         |
 | "That's bona drag you're wearing"    | That's a nice outfit you're wearing.                                     |
-| "Are you trolling down the bungery for swift bevie?" | Are you coming down the pub for a pint?                                |
+| "Are you trolling down the bungery for swift bevie?" | Are you coming down the pub for a quick pint?                                |
 | "Vada the omie in the dinge chimey I wonder if she's trade?" | Look at the guy in the dark shirt I wonder if he's available (Sexually)? |
 | "That omi over there with the cackle and the comb over is giving me the creeps." | That man over there with the loud laugh and the bad hairstyle is making me uncomfortable. |
-| "Do you think the bona waiter has any naff managarie we should avoid?" | Do you think the good waiter has any bad dishes we should steer clear of? |
+| "Do you think the bona waiter has any jaryola we should avoid?" | Do you think the good waiter has any bad dishes we should steer clear of? |
 | "Did you see the vada on that barmaid?" | Did you see the look on that female bartender? |
 | "I'm not sure about that naff bloke at the end of the bar. She looks like he might be betty bracelets." | I'm not sure about that bad man at the end of the bar. He looks like he might be a cop. |
 | "Let's meet at the Bungery at six"    | Let's meet at the pub at six.                                           |
@@ -145,7 +143,7 @@ D. How are you?
 
 2. What does "Are you trolling down the bungery for swift bevie?" mean?
 
-A. Are you coming down the pub for a pint?
+A. Are you coming down the pub for a quick pint?
 
 B. Do you want to grab some food?
 
@@ -159,7 +157,7 @@ A. To communicate secretly among the patrons
 
 B. To show off one's knowledge of the language
 
-C. To make fun of the staff
+C. To fish for compliments.
 
 D. To order food and drinks
 
@@ -242,7 +240,7 @@ Here's some more phrases you might want to practice:
 
 - Betty bracelets is on duty tonight, be careful.
 
-- Let's go to the bungery and grab a drink.
+- Let's go to the bungery and grab a bevy.
 
 - She was wearing a bona drag for the party last night.
 
@@ -250,23 +248,21 @@ Here's some more phrases you might want to practice:
 
 - Bona Vada! It's been so long since we last vardered each other.
 
-- Let's meet at the bungery, I heard they have a bevy.
+- Let's meet at the bungery, I need a bevy.
 
-- His cackle could be heard from across the room.
+- His cackle could be heard from across the lattie.
 
-- Have you tried the food at the new Carnish Ken yet?
+- Have you tried the managery at the new Carnish Ken yet?
 
 - I'm feeling hungry, let's go grab some jarry.
 
-- We should try the managarie down the street, I heard it's really good.
+- We should try the managarie down the street, I heard it's really bona.
 
 - Let's grab some munge from the food truck outside.
 
 - Pass the polaripipe? I need to make a call.
 
 - Trolling down the bungery for swift bevie, wanna come?
-
-- She likes to show off her willets in low-cut tops.
 
 - He said he'll meet us at the bungery when he's finished acting dickie.
 
@@ -278,7 +274,7 @@ Here's some more phrases you might want to practice:
 
 - She's such a butch omi, always working out.
 
-- Her style is so zooshy, I wish I could look like that.
+- Her style is so zooshy, I wish I could vada like that.
 
 - She's always carrying a bijou purse.
 
