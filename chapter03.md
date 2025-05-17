@@ -149,36 +149,64 @@ We step back into the Montrel Cheat, feeling grateful for this eye-opening journ
 Recap
 -----
 
-Here are some more words we've encountered:
+Here are some more words and phrases we've encountered:
 
-|**Word**|**Definition**|
-| ------ | ------ |
-|Her|He|
-|Him|She|
-|I, Me|Mother (Normally used in the 3^rd^ person)|
-|It|A sexual partner|
-|Them|Them/They|
-|Us|We|
-|Duchess|VIP||**Suffixes**|**Definition**|
-|-ed|Past tense|
-|-ette|Diminutive suffix, used to indicate smallness or cuteness|
-|-ola|Derogatory suffix, used to indicate inferior quality|
-|Fake/Fakement|Something is artificial|
-|Cheat|Something is removed/stolen||**Words**|**Definition**|
-|Aunty Nelly Fake|Earing|
-|Butch|Masculine, manly|
-|Camp|Flamboyant, effeminate|
-|Cartes|Penis|
-|Charper|To spy or eavesdrop|
-|Dilly|To prostitute oneself|
-|Dosh|Money|
-|Drag|Clothes|
-|Lullaby Cheat|Baby|
-|Omi-palone|Homosexual, gay|
-|Pots|Teeth|
-|Shush|To steal|
-|Strilla|Pianist|
-|Zoosh|To style hair|
+| Polari Term        | Meaning(s)                                                | Part of Speech |
+| :----------------- | :---------------------------------------------------------- | :------------- |
+| Aunty Nelly Fake   | Earring (something artificial)                            | Noun           |
+| Bevyette           | A small drink                                             | Noun           |
+| Bona               | Good, nice                                                | Adjective      |
+| Butch              | Masculine, manly                                            | Adjective      |
+| Cartes             | Penis                                                       | Noun           |
+| Charper            | To spy or eavesdrop                                         | Verb           |
+| Dilly              | Prostitute; To prostitute oneself                           | Noun, Verb     |
+| Dish               | Attractive man or buttocks                                  | Noun           |
+| Dosh               | Money                                                       | Noun           |
+| Drag               | Clothes                                                     | Noun           |
+| Duchess            | VIP                                                         | Noun           |
+| Gelt               | Money                                                       | Noun           |
+| Jary               | Food; To eat                                                | Noun, Verb     |
+| Jaryola            | A bad meal or food of poor quality                           | Noun           |
+| Lallies            | Legs                                                        | Noun           |
+| Lattie             | House, Flat or room.                                        | Noun           |
+| Lullaby Cheat      | Baby (steals sleep)                                         | Noun           |
+| Mother             | I, Me (used in 3rd person self-reference)                   | Pronoun        |
+| Montrel Cheat      | (Implied: a mode of transport that causes displacement in time) | Noun           |
+| Naff               | Dull, boring, straight                                      | Adjective      |
+| Omi-palone         | Homosexual, gay                                             | Adjective, Noun |
+| Palone             | Female, woman                                               | Adjective, Noun |
+| Pots               | Teeth                                                       | Noun           |
+| Riah               | Hair                                                        | Adjective, Noun |
+| Scarper            | Run away, escape                                            | Adjective, Verb |
+| She                | Him                                                         | Pronoun        |
+| Shush              | To steal                                                    | Verb           |
+| Strilla            | Pianist                                                     | Noun           |
+| Them/They          | Them                                                        | Pronoun        |
+| Troll              | To walk aimlessly or wander                                 | Verb           |
+| Vada               | To see or look.                                             | Verb           |
+| We                 | Us                                                          | Pronoun        |
+| You                | You                                                         | Pronoun        |
+| Zoosh              | To style hair                                               | Verb           |
+
+**Pronoun Reversal:**
+
+| English Pronoun | Polari Pronoun |
+| :-------------- | :------------- |
+| He              | She            |
+| She             | He             |
+| It              | A sexual partner |
+
+**Phrases (from examples):**
+
+| Polari Phrase                                    | Meaning                                                                 |
+| :----------------------------------------------- | :------------------------------------------------------------------------ |
+| "Mother wants to go out for dinner"              | "I want to go out to dinner" (self-reference in 3rd person)             |
+| "vada that Charpering Omi"                       | notice that police officer                                               |
+| "dilling on the docks"                           | prostituting himself on the docks                                       |
+| "troll down to the bodega to get some groceries" | "walk down to the shop to get some groceries"                            |
+| "zoosh my riah"                                  | style my hair                                                           |
+| "shush your wallet if you're not vadaring"       | steal your wallet if you're not watching                                |
+| "troll around the park and see if we can vada any dolly omis" | "walk around the park and see if we can spot any cute guys" |
 
 Exercise
 --------
