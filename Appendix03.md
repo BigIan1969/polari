@@ -1,6 +1,28 @@
-Appendix II Polari to English dictionaryA| **Polari word/phrase**	| **English word/phrase**	| **Etymology** |
+Appendix II Polari to English dictionary
+A
+| **Polari word/phrase**	| **English word/phrase**	| **Etymology** |
 | ------ | ------ | ------ |
-| AC/DC | Bisexual | | Ajax | Here | | Ajax | In the proximity | | Ajax | Nearby | | ALAMO | Attractive | Corruption of the acronym LMO = Lick Me Out| ALAMO | I'm hot for you | Corruption of the acronym LMO = Lick Me Out| Almond Rocks | Socks | | Antique HP | Old Man | | Aris | Arse | Cockney & Parlyaree for arse| Aris | Buttocks | Cockney & Parlyaree for arse| Arthur | Masturbate | Cockney Rhyming Slang| Arthur | Wank | Cockney Rhyming Slang| Arva | Sex | Parlyaree: charva = a fuck, to fuck| Aspra | Female Prostitute | Lingua Franka: aspro = money| Aspro | Male Prostitute | Lingua Franca: aspro = money| Aunt Nell | Be Quiet | | Aunt Nell | Listen | | Aunt Nell | Listen to Me | | Aunt Nells | Ears | | Aunty | Old Man | | Aunty Nells | Ears | 
+| AC/DC | Bisexual | 
+| Ajax | Here | 
+| Ajax | In the proximity | 
+| Ajax | Nearby | 
+| ALAMO | Attractive | Corruption of the acronym LMO = Lick Me Out
+| ALAMO | I'm hot for you | Corruption of the acronym LMO = Lick Me Out
+| Almond Rocks | Socks | 
+| Antique HP | Old Man | 
+| Aris | Arse | Cockney & Parlyaree for arse
+| Aris | Buttocks | Cockney & Parlyaree for arse
+| Arthur | Masturbate | Cockney Rhyming Slang
+| Arthur | Wank | Cockney Rhyming Slang
+| Arva | Sex | Parlyaree: charva = a fuck, to fuck
+| Aspra | Female Prostitute | Lingua Franka: aspro = money
+| Aspro | Male Prostitute | Lingua Franca: aspro = money
+| Aunt Nell | Be Quiet | 
+| Aunt Nell | Listen | 
+| Aunt Nell | Listen to Me | 
+| Aunt Nells | Ears | 
+| Aunty | Old Man | 
+| Aunty Nells | Ears | 
 
 B
 | **Polari word/phrase**	| **English word/phrase**	| **Etymology** |
@@ -410,6 +432,7 @@ J
 | Jarry | Food | Italian/Lingua Franca: mangiare = food, to eat
 | Jarry the Cartso | Blow Job | 
 | Jarry the Cartso | Felatio | 
+| Jarryolla | Bad Food | Italian/Lingua Franca: mangiare = food, to eat; -ola = bad quality, substandard
 | Jennifer Justice | Police | 
 | Jew's Eye | Valuable Thing | 
 | Jim & Jack | Buttocks | Cockey rhyming slang: Jim & Jack = Back
