@@ -84,26 +84,51 @@ Recap
 
 Here are the new words & phrases we encountered in this chapter:
 
-|**Word**|**Description**|
-|------|------|
-|Acting dickie|Working or busy.|
-|Betty bracelets|A cop or a police officer.|
-|Beverages or bevy|Drink or to drink.|
-|Bona drag|Phrase meaning "nice outfit."|
-|Bona omi|Boyfriend.|
-|Bona Vada|A common greeting that means "nice to see you."|
-|Bungery|Pub or bar.|
-|Cackle|A loud laugh.|
-|Carnish Ken|Restaurant or takeaway.|
-|Jarry|Food or to eat.|
-|Managarie|Food or to eat.|
-|Munge or mungerey|Food or to eat.|
-|Polaripipe|Telephone.|
-|Ruby Murray|Curry.|
-|Tom and Dick|Sick.|
-|Trolling down the bungery for swift bevie|Means "Walking down the pub for a quick drink"|
-|Vada the omie in the dinge chimey|Means "look at the guy in the dark shirt."|
-|Willets|Breasts.|
+| Polari Term   | Meaning(s)                                                                 | Part of Speech |
+| :------------ | :------------------------------------------------------------------------- | :------------- |
+| Beverage, Bevy | Drink                                                                      | Noun           |
+| Betty bracelets | (Implied) A cop (from rhyming slang: Betty Bracelets = Bracelets = Cuffs) | Noun           |
+| Bloke         | Man, fellow                                                                | Noun           |
+| Bona          | Good, nice                                                                 | Adjective      |
+| Bungery       | Pub or Bar                                                                 | Noun           |
+| Cackle        | Loud laugh                                                                 | Noun           |
+| Carnish Ken   | Restaurant or Takeaway                                                     | Noun           |
+| Comb over     | Bad hairstyle (specifically a comb-over)                                   | Noun           |
+| Dinge chimey  | Dark shirt                                                                 | Noun phrase    |
+| Dishy bloke   | Attractive man                                                             | Noun phrase    |
+| Drag          | Outfit, clothes                                                            | Noun           |
+| Jarry, Manage, Managery, Munge, Mungerey | Food or to eat                                                              | Noun, Verb     |
+| Naff          | Bad                                                                        | Adjective      |
+| Omi           | Man, guy                                                                   | Noun           |
+| Polaripipe    | Telephone                                                                  | Noun           |
+| Ruby Murray     | Curry (from rhyming slang)                                                 | Noun           |
+| Swift bevie   | Pint (quick drink)                                                         | Noun phrase    |
+| Tinkle        | Call (on the phone)                                                        | Noun, Verb     |
+| Tom and Dick  | Sick (from rhyming slang: Tom and Dick = Sick)                             | Adjective      |
+| Trade         | Sexually available                                                         | Noun           |
+| Troll         | Coming, going, walking                                                     | Verb           |
+| Vada          | Look                                                                       | Verb           |
+| Willets       | Breasts                                                                    | Noun           |
+
+**Phrases:**
+
+| Polari Phrase                         | Meaning                                                                 |
+| :------------------------------------ | :------------------------------------------------------------------------ |
+| "Bona Vada"                           | Nice to see you.                                                         |
+| "That's bona drag you're wearing"    | That's a nice outfit you're wearing.                                     |
+| "Are you trolling down the bungery for swift bevie?" | Are you coming down the pub for a pint?                                |
+| "Vada the omie in the dinge chimey I wonder if she's trade?" | Look at the guy in the dark shirt I wonder if he's available (Sexually)? |
+| "That omi over there with the cackle and the comb over is giving me the creeps." | That man over there with the loud laugh and the bad hairstyle is making me uncomfortable. |
+| "Do you think the bona waiter has any naff managarie we should avoid?" | Do you think the good waiter has any bad dishes we should steer clear of? |
+| "Did you see the vada on that barmaid? She's got a lovely pair of willets." | Did you see the look on that female bartender? She's got a nice pair of breasts. |
+| "I'm not sure about that naff bloke at the end of the bar. She looks like he might be betty bracelets." | I'm not sure about that bad man at the end of the bar. He looks like he might be a cop. |
+| "Let's meet at the Bungery at six"    | Let's meet at the pub at six.                                           |
+| "I'll give you a tinkle on the Polaripipe later" | I'll call you on the phone later.                                        |
+| "We'll have to cancel our Ruby Murray, I'm feeling a bit Tom and Dick" | We'll have to cancel our curry, I'm feeling a bit sick.                    |
+| "Are you free on Sunday, or are you hanging with your bona omi?" | Are you free on Sunday, or are you spending time with your boyfriend?      |
+| "I'm afraid I can't make it, I'm acting dickie" | I'm afraid I can't make it, I'm working.                               |
+| "Let's vada at the new club in Soho"   | Let's check out the new club in Soho.                                   |
+| "How about we grab a jarry at the Carnish Ken before the show?" | How about we have a meal at the restaurant before the show?               |
 
 Exercise
 --------
