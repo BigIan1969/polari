@@ -259,6 +259,7 @@ Here's a list of words and phrases we've encountered so far in our Polari Journe
 | "Bona notchy"               | Goodnight                                     |
 | "Vada the bona dish"        | Look at the attractive man.                   |
 | "Vada the dolly dish"       | Look at the pretty man.                      |
+
 You'll note that we've listed many of them with alternate spellings it's important to remember Polari was very much a spoken language and was hardly ever written down in fact this book is the first attempt I am aware of to write a guide to how to speak it although there are various books by Professor Paul Baker on the history of Polari and his Polari Dictionary.
 
 Exercise
