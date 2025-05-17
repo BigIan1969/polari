@@ -46,7 +46,7 @@ Pronouns:
 
 - Them: Them/They
 
-- VIP: Duchess
+- Duchess: VIP
 
 In Polari, pronouns are used much like they are in English, to refer to people or things in the context of a sentence. Nouns are used to describe people, things, or concepts, and can often have multiple meanings or connotations depending on the context in which they are used.
 
