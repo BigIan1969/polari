@@ -16,7 +16,7 @@ If you're interested in learning more about Polari, there are a number of dictio
 
 - [The Polari Podcast](https://shows.acast.com/the-polari-podcast): This is a podcast that focuses on the history and culture of Polari. It includes interviews with experts, as well as discussions of current events and trends in the LGBTQ+ community.
 
-- The Appendix of this book: An English to Polari dictionary is included in the appendix of this book for easy reference while learning the language.
+- The Appendix of this book: An English to Polari and a Polari to English dictionary are included in the appendix of this book for easy reference while learning the language.
 
 Additionally, The Sisters of Perpetual Indulgence, a group of drag performers who use their platform to promote LGBTQ+ rights and social justice causes, have been instrumental in promoting the use of Polari. They have been known to use the Polari Bible in their performances and rituals and have even created their version of the Lord's Prayer in Polari.
 
