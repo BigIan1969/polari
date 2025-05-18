@@ -76,24 +76,24 @@ Sandy nodded in agreement, a sense of pride swelling within him. "Absolutely, Ju
 
 With bated breath, we and our dynamic duo awaited the unfolding of the Polari Christian ceremony, eager to embark on a journey that would challenge their preconceptions and ignite their sense of wonder.
 
-In the beginning Gloria created the heaven and the earth.
+### In the beginning Gloria created the heaven and the earth.
 
-And the earth was nanti form, and void; and munge was upon the eke of the deep. And the fairy of Gloria trolled upon the eke of the aquas.
+### And the earth was nanti form, and void; and munge was upon the eke of the deep. And the fairy of Gloria trolled upon the eke of the aquas.
 
-And Gloria cackled, Let there be sparkle: and there was sparkle.
+### And Gloria cackled, Let there be sparkle: and there was sparkle.
 
-And Gloria vardad the sparkle, that it was bona: and Gloria medzered the sparkle from the munge.
+### And Gloria vardad the sparkle, that it was bona: and Gloria medzered the sparkle from the munge.
 
-And Gloria screeched the sparkle journo, and the munge she screeched nochy. And the bijou nochy and the morning were the first journo.
+### And Gloria screeched the sparkle journo, and the munge she screeched nochy. And the bijou nochy and the morning were the first journo.
 
-And Gloria cackled, Let there be a firmament in the midst of the aquas, and let it divide the aquas from the aquas.
+### And Gloria cackled, Let there be a firmament in the midst of the aquas, and let it divide the aquas from the aquas.
 
-And Gloria made the firmament, and medzered the aquas which were under the firmament from the aquas which were above the firmament: and it was so.
+### And Gloria made the firmament, and medzered the aquas which were under the firmament from the aquas which were above the firmament: and it was so.
 
-And Gloria screeched the firmament Heaven. And the bijou nochy and the morning were the second journo.
+### And Gloria screeched the firmament Heaven. And the bijou nochy and the morning were the second journo.
 
-And Gloria cackled, Let the aquas under the heaven be gathered together unto una place, and let the dry land appear: and it was so.
-
+### And Gloria cackled, Let the aquas under the heaven be gathered together unto una place, and let the dry land appear: and it was so.
+##### Note: The Polari Bible was translated into Polari with a fairly liberal dictionary hence many of the words in this section are not taught in this book or included in the dictionaries in the appendix as we could find no evidence of their use in Polari beyond the Polari Bible
 From their hidden vantage points within the crowd, Julian and Sandy observed the Polari Christian rituals unfold before their fascinated eyes. The room was filled with a palpable sense of reverence and excitement, as the participants prepared to showcase their faith and linguistic heritage.
 
 A soft melody filled the air, and the tourists leaned in closer, eager to catch every nuance of the ceremony. The Polari language, with its colourful vocabulary and unique expressions, danced upon the lips of the participants, their voices carrying the weight of tradition and pride.
