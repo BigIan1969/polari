@@ -1,7 +1,7 @@
 Chapter 9. Conclusion and Final Thoughts
 ========================================
 
-Importance of learning Polari
+## Importance of learning Polari
 
 Learning Polari is not just about acquiring a new language, but also about preserving and celebrating an important part of LGBTQ+ history and culture. By learning Polari, you are not only learning a fascinating and unique language, but also connecting with a community that has used this language as a tool of resistance, identity, and survival.
 
@@ -11,9 +11,9 @@ Moreover, learning Polari can also be a fun and enriching experience. The langua
 
 In conclusion, learning Polari is not just a linguistic endeavour, but also a way to connect with LGBTQ+ history and culture, promote inclusivity, and have fun exploring a unique language.
 
-Applications of Polari
+## Applications of Polari
 
-Polari may have originated as a secret language for the LGBTQ+ community in the mid-twentieth century, but its applications have expanded beyond this particular group. Today, Polari is often used for comedic effect in television shows, movies, and theatrical productions. It is also still used by some drag performers, comedians, and musicians as a way to connect with LGBTQ+ audiences and pay homage to queer culture.
+Polari may have originated as a secret language for the LGBTQ+ community in the late nineteenth century, but its applications have expanded beyond this particular group. Today, Polari is often used for comedic effect in television shows, movies, and theatrical productions. It is also still used by some drag performers, comedians, and musicians as a way to connect with LGBTQ+ audiences and pay homage to queer culture.
 
 Polari's historical significance has led to its use in academic research, as linguists and historians study its impact on the queer community and its role in shaping LGBTQ+ identity. In addition, Polari has influenced other languages and dialects, gay slang in other countries.
 
@@ -21,7 +21,7 @@ Moreover, the revival of Polari has sparked interest in preserving and promoting
 
 Overall, Polari's applications extend beyond its original purpose, serving as a source of entertainment, academic research, and cultural heritage. Its continued use and development can help promote inclusivity and diversity in language and society.
 
-Tips for continuing to learn and use Polari.
+## Tips for continuing to learn and use Polari.
 
 Congratulations on completing your journey to learn Polari! You may be wondering how to continue practicing and using your new language skills. Here are some tips:
 
@@ -37,7 +37,7 @@ Congratulations on completing your journey to learn Polari! You may be wondering
 
 Remember, learning a language is a lifelong process. With continued practice and exposure to the language, you can continue to improve your Polari skills and gain a deeper appreciation for this unique language and its history.
 
-Julian & Sandy: Bona Nochy
+## Julian & Sandy: Bona Nochy
 
 As the Montrell Cheat shuddered to a stop, we found ourselves back in the present day, our journey with Julian and Sandy coming to an end. The familiar wheeze of the time-traveling device ceased, and we knew it was time to bid farewell to our beloved tour guides.
 
